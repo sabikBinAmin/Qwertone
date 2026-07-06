@@ -23,6 +23,22 @@ Qwertone exists to answer one simple question:
 
 > **How much music can we create using only a standard keyboard?**
 
+## Creator's Note
+
+Qwertone started from a personal question.
+
+I wanted to create and perform music, but I didn't own instruments like a piano, guitar, or drum kit.
+
+What I did have was a mechanical keyboard.
+
+Instead of buying new hardware, I decided to explore a different question:
+
+**Can an ordinary keyboard become a creative musical tool?**
+
+This project is my attempt to answer that question in public.
+
+Every version, every bug, every improvement, and every song created with Qwertone will be part of that journey.
+
 ---
 
 ## Vision
